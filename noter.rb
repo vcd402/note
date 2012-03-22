@@ -1,3 +1,4 @@
+#hi
 require 'rubygems'
 require 'sinatra'
 require 'Haml'
