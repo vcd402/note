@@ -1,5 +1,3 @@
-#noter by rajasee
-
 require 'rubygems'
 require 'sinatra'
 require 'Haml'
